@@ -75,4 +75,4 @@ Export this as a tab-delimited `.tsv` text file with Unix line endings.
 
 Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
 
-[README.md](https://github.com/zyaffe/tfcb-homework01/blob/master/messy-project-directory/data/tidy-survey-data.tsv)
+[tidy-survey-data.tsv](https://github.com/zyaffe/tfcb-homework01/blob/master/messy-project-directory/data/tidy-survey-data.tsv)
