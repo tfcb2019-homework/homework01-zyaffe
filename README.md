@@ -49,7 +49,7 @@ Organize files into a more consistent structure. Group images into a `images/` d
 
 Commit changes and publish to your public GitHub repository. Locate the URL of this commit by clicking on "commits" from your project page on GitHub, which should be similar in format to: https://github.com/fredhutchio/tfcb_2019/commit/16b5235bd2d908c96f22297813e6aaf9f172ad41
 
-[File Reorganization Commit Link](https://github.com/zyaffe/tfcb-homework01/commit/7ba788b76212790a5426119f9de07e08513ab31e)
+[File Reorganization Commit Link](https://github.com/zyaffe/tfcb-homework01/commit/27424dd9cf2c578134f34063160af64cd5637e39)
 
 ## Problem 4
 
@@ -61,7 +61,7 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 
 Commit this file and publish to your public GitHub repository.
 
-[README.md](https://github.com/zyaffe/tfcb-homework01/README.md)
+[README.md](https://github.com/zyaffe/tfcb-homework01/blob/master/README.md)
 
 ## Problem 5
 
@@ -75,4 +75,4 @@ Export this as a tab-delimited `.tsv` text file with Unix line endings.
 
 Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
 
-[README.md](https://github.com/zyaffe/tfcb-homework01/messy-project-directory/data/tidy-survey-data.tsv)
+[README.md](https://github.com/zyaffe/tfcb-homework01/blob/master/messy-project-directory/data/tidy-survey-data.tsv)
